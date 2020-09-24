@@ -22,3 +22,14 @@
     padding: 0 60px;
     box-sizing: border-box;
 }
+
+.logo {
+    width: 15px;
+}
+
+.logo img {
+    width: 30px;
+    position: relative;
+    z-index: 10;
+    cursor: pointer;
+}
