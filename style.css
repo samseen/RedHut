@@ -91,3 +91,11 @@ nav ul li a {
     height: 15px;
     margin-bottom: 30px;
 }
+
+.info-icon {
+    width: 20px;
+    position: absolute;
+    left: 50%;
+    bottom: 30px;
+    transform: translateX(-50%);
+}
