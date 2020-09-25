@@ -81,5 +81,13 @@ nav ul li a {
 }
 
 .social-links {
-    
+    width: 20px;
+    display: block;
+    margin: 220px auto 0;
+    text-align: center;
+}
+
+.social-links img {
+    height: 15px;
+    margin-bottom: 30px;
 }
