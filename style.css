@@ -107,6 +107,7 @@ nav ul li a {
     left: 14%;
     top: 57%;
     transform: translateY(-50%);
+    overflow: hidden;
 }
 
 #slider {
