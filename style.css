@@ -112,6 +112,7 @@ nav ul li a {
 
 #slider {
     display: inline-flex;
+    transition: 0.5s;
 }
 
 .msg-col {
@@ -169,4 +170,5 @@ nav ul li a {
     position: absolute;
     top: 0;
     transform: translateX(-50%);
+    transition: 0.5s;
 }
