@@ -160,3 +160,13 @@ nav ul li a {
     cursor: pointer;
     transform: translateX(-50%);
 }
+
+#active {
+    width: 5px;
+    height: 80px;
+    border-radius: 10px;
+    background: #fff;
+    position: absolute;
+    top: 0;
+    transform: translateX(-50%);
+}
