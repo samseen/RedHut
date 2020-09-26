@@ -99,3 +99,12 @@ nav ul li a {
     bottom: 30px;
     transform: translateX(-50%);
 }
+
+.msg-container {
+    width: 600px;
+    height: 280px;
+    position: absolute;
+    left: 14%;
+    top: 57%;
+    transform: translateY(-50%);
+}
