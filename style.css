@@ -108,3 +108,7 @@ nav ul li a {
     top: 57%;
     transform: translateY(-50%);
 }
+
+#slider {
+    display: flex;
+}
